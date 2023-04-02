@@ -1,0 +1,9 @@
+-r tests.txt
+mkdocs
+mkdocstrings
+mkdocstrings-python
+mkdocs-coverage
+mkdocs-gen-files
+mkdocs-literate-nav
+mkdocs-material
+mkdocs-section-index
